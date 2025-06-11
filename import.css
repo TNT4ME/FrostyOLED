@@ -1,0 +1,12 @@
+/**
+ * @name FrostOLEDdebug
+ * @author TNT4ME
+ * @description Debug
+ * @version v0d
+ */
+:root {
+  --text-normal: --FO-txtCol;
+  --background-base-lower: --FO-mainCol;
+}
+
+/*# sourceMappingURL=import.css.map */
