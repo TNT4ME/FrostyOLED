@@ -6,4 +6,8 @@
   background: none;
 }
 
+/*div .theme-dark.theme-darker.images-dark*/.bar_c38106 {
+  background: var(--background-base-lower) !important;
+}
+
 /*# sourceMappingURL=import.css.map */
