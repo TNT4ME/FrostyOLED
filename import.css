@@ -7,7 +7,12 @@
 }
 
 div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.bar_c38106.theme-dark.theme-darker.images-dark {
-  background: var(--bg-overlay-2);
+  border: none;
+  background: var(--FO-mainCol);
+}
+
+.visual-refresh .attachButton__0923f:hover {
+  color: var(--FO-accentCol);
 }
 
 /*# sourceMappingURL=import.css.map */
