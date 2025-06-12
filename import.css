@@ -23,4 +23,12 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   color: var(--FO-accentCol);
 }
 
+.button__24af7 {
+  color: var(--FO-icon);
+}
+
+.button__24af7:hover {
+  color: var(--FO-accentCol);
+}
+
 /*# sourceMappingURL=import.css.map */
