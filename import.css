@@ -15,6 +15,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-mainCol);
 }
 
+:where(.visual-refresh) .channelTextArea__74017 {
+  border: none;
+}
+
 .visual-refresh .attachButton__0923f:hover {
   color: var(--FO-accentCol);
 }
