@@ -19,6 +19,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   color: var(--FO-icon);
 }
 
+.visual-refresh:hover .clickable__9293f:hover .icon__9293f:hover {
+  color: var(--FO-accentCol);
+}
+
 :where(.visual-refresh) .channelTextArea__74017 {
   border: none;
 }
