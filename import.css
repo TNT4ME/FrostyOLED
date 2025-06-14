@@ -31,7 +31,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   color: var(--FO-icon);
 }
 
-:where(.visual-refresh) .button__201d5:hover, .lottieIcon__5eb9b:hover, .lottieIconColors__5eb9b:hover {
+:where(.visual-refresh) .app__160d8 button:hover, .lottieIcon__5eb9b:hover, .lottieIconColors__5eb9b:hover {
   color: var(--FO-accentCol);
   transition: none;
 }
