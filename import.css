@@ -72,4 +72,9 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-mainCol);
 }
 
+.visual-refresh .embedFull__623de {
+  border: none;
+  border-left: 4px solid var(--FO-accentCol);
+}
+
 /*# sourceMappingURL=import.css.map */
