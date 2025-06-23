@@ -15,6 +15,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   color: var(--FO-accentCol);
 }
 
+.visual-refresh .embedFull__623de {
+  border: none;
+  border-left: 4px solid var(--FO-accentCol);
+}
+
 :where(.visual-refresh) .channelTextArea__74017 {
   border: none;
 }
@@ -30,6 +35,14 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 :where(.visual-refresh) .app__160d8 button:hover, .lottieIcon__5eb9b:hover, .lottieIconColors__5eb9b:hover {
   color: var(--FO-accentCol);
   transition: none;
+}
+
+.obscured__6c706.hiddenMosaicItem__6c706.hiddenSpoiler__6c706 {
+  filter: blur(--FO-spoiler);
+}
+
+.spoilerContainer__54ab5 {
+  background-color: var(--FO-accentCol);
 }
 
 .visual-refresh .title_f75fb0 {
@@ -57,7 +70,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .visual-refresh .sidebar_c48ade:after {
-  background: var(--FO-mainCol);
+  background: none;
 }
 
 .visual-refresh .privateChannels__35e86 {
@@ -70,11 +83,6 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .visual-refresh .wrapper_ef3116 {
   background: var(--FO-mainCol);
-}
-
-.visual-refresh .embedFull__623de {
-  border: none;
-  border-left: 4px solid var(--FO-accentCol);
 }
 
 /*# sourceMappingURL=import.css.map */
