@@ -44,6 +44,16 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   border-left: 4px solid var(--FO-accentCol);
 }
 
+.file__0ccae {
+  border: none;
+}
+
+.hoverButtonGroup__06ab4 {
+  outline: none;
+  background: var(--FO-transCol);
+  backdrop-filter: blur(var(--FO-blur));
+}
+
 .wrapper_f61d60:hover {
   color: var(--FO-txtCol);
   background: var(--FO-accentCol);
