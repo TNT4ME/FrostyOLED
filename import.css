@@ -35,7 +35,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .visual-refresh .panels_c48ade {
   border: none;
-  background: var(--FO-transCol);
+  background: var(--FO-transCol1);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -48,7 +48,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   border: none;
 }
 
-.hoverButtonGroup__06ab4 {
+.hoverButtonGroup__06ab4, .gifFavoriteButton__43deb {
   outline: none;
   background: var(--FO-transCol);
   backdrop-filter: blur(var(--FO-blur));
@@ -115,6 +115,14 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .visual-refresh .sidebar_c48ade:after {
   background: none;
+}
+
+.modeSelected__2ea32 .link__2ea32 {
+  background: var(--FO-transCol1);
+}
+
+.modeSelected__2ea32 .link__2ea32:hover {
+  background: var(--FO-accentCol);
 }
 
 .visual-refresh .privateChannels__35e86 {
