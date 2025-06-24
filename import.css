@@ -25,8 +25,12 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   backdrop-filter: blur(var(--FO-blur));
 }
 
-.mentioned__5126c:hover {
-  background: var(--FO-transCol);
+.content_f75fb0 > div {
+  background: var(--FO-mainCol);
+}
+
+:where(.overlay_c0bea0) {
+  background: var(--FO-secCol);
 }
 
 .visual-refresh .panels_c48ade {
@@ -43,6 +47,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .wrapper_f61d60:hover {
   color: var(--FO-txtCol);
   background: var(--FO-accentCol);
+}
+
+.mentioned__5126c:hover {
+  background: var(--FO-transCol);
 }
 
 :where(.visual-refresh) .channelTextArea__74017 {
