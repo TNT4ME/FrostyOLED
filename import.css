@@ -1,3 +1,8 @@
+.backdrop__78332, .withLayer__78332 {
+  background: none !important;
+  backdrop-filter: blur(var(--FO-blur)) !important;
+}
+
 .container_c8ffbb {
   border: none;
 }
@@ -22,13 +27,18 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .visual-refresh .panels_c48ade {
   border: none;
-  background: var(--FO-blurCol);
+  background: var(--FO-transCol);
   backdrop-filter: blur(var(--FO-blur));
 }
 
 .visual-refresh .embedFull__623de {
   border: none;
   border-left: 4px solid var(--FO-accentCol);
+}
+
+.wrapper_f61d60:hover {
+  color: var(--FO-txtCol);
+  background: var(--FO-accentCol);
 }
 
 :where(.visual-refresh) .channelTextArea__74017 {
