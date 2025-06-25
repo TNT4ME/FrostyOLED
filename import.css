@@ -125,6 +125,14 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: none;
 }
 
+.stackedBars__74017:not(:last-child) {
+  border: none;
+}
+
+.mentionButton__841c8 {
+  color: var(--FO-accentCol) !important;
+}
+
 .obscured__6c706.hiddenMosaicItem__6c706.hiddenSpoiler__6c706 {
   filter: blur(--FO-spoiler);
 }
@@ -164,6 +172,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .modeSelected__2ea32 .link__2ea32 {
   background: var(--FO-transCol1);
+}
+
+.popout__76f04 {
+  background: var(--FO-transCol1);
+  backdrop-filter: blur(var(--FO-blur));
 }
 
 .wrapper__2ea32:hover .link__2ea32 {
