@@ -120,6 +120,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 :where(.visual-refresh) .channelTextArea__74017 {
   border: none;
 }
+:where(.visual-refresh) .channelTextArea__74017 :hover {
+  border: none;
+  box-shadow: 0px 0px 3px color-mix(in oklch, var(--FO-accentCol) 90%, transparent), 0px 0px 5px color-mix(in oklch, var(--FO-accentCol) 80%, transparent);
+}
 
 .visual-refresh .attachButton__0923f:hover {
   color: var(--FO-accentCol);
