@@ -97,11 +97,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .wrapper_f61d60:hover {
   color: var(--FO-txtCol);
-  background: var(--FO-accentCol);
-}
-
-.wrapper_f61d60:hover > span {
-  filter: invert(1);
+  background: var(--FO-mentionCol);
 }
 
 .mentioned__5126c:hover {
