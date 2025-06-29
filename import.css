@@ -21,6 +21,15 @@
   background: var(--FO-mainCol);
 }
 
+.menu_c1e9c4 {
+  background: var(--FO-transCol1);
+  backdrop-filter: blur(var(--FO-blur));
+}
+
+.colorDanger_c1e9c4.focused_c1e9c4 {
+  background: linear-gradient(oklab(71% 0.17 0.16 / 0.15), oklab(65% 0.26 0.14 / 0.15));
+}
+
 .outer_c0bea0 {
   background: var(--FO-profileCol);
   backdrop-filter: blur(var(--FO-blur));
