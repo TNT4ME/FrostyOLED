@@ -27,15 +27,19 @@
 }
 
 :where(.overlay_c0bea0) {
-  background: var(--FO-secCol);
+  background: none;
+}
+
+.menuItemColor_ce8328 {
+  color: var(--FO-txtCol);
 }
 
 .text-sm\/normal_cf4812 {
-  color: #fff !important;
+  color: var(--FO-txtCol) !important;
 }
 
 .editor_a99829 > div > .placeholder__1b31f {
-  color: #fff;
+  color: var(--FO-txtCol);
 }
 
 .visual-refresh .panels_c48ade {
