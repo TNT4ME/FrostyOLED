@@ -117,10 +117,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-transCol) !important;
 }
 
-:where(.visual-refresh) .channelTextArea__74017 {
+.channelTextArea__74017:not(.highlighted__74017) {
   border: none;
 }
-:where(.visual-refresh) .channelTextArea__74017 :hover {
+.channelTextArea__74017:not(.highlighted__74017):hover {
   border: none;
   box-shadow: 0px 0px 3px color-mix(in oklch, var(--FO-accentCol) 90%, transparent), 0px 0px 5px color-mix(in oklch, var(--FO-accentCol) 80%, transparent);
 }
