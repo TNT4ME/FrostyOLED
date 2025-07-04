@@ -120,7 +120,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .channelTextArea__74017:not(.highlighted__74017) {
   border: none;
 }
-.channelTextArea__74017:not(.highlighted__74017):hover {
+.channelTextArea__74017:not(.highlighted__74017) :hover {
   border: none;
   box-shadow: 0px 0px 3px color-mix(in oklch, var(--FO-accentCol) 90%, transparent), 0px 0px 5px color-mix(in oklch, var(--FO-accentCol) 80%, transparent);
 }
@@ -194,6 +194,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .visual-refresh .searchBar__97492 {
   border: none;
+}
+
+.root_bfe55a {
+  background: var(--FO-vidBg);
 }
 
 .visual-refresh .container__2637a {
