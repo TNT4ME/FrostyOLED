@@ -97,8 +97,12 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   backdrop-filter: blur(var(--FO-blur));
 }
 
-.scroller__7d20c {
+.scroller__7d20c, .wrapper__00943, .section__00943 {
   border: none;
+}
+
+.tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf {
+  background: var(--FO-accentCol);
 }
 
 .wrapper_c19a55:hover {
@@ -124,7 +128,8 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .channelTextArea__74017:not(.highlighted__74017) {
   border: none;
 }
-.channelTextArea__74017:not(.highlighted__74017) :hover {
+
+.channelTextArea__74017:not(.highlighted__74017):hover {
   border: none;
   box-shadow: 0px 0px 3px color-mix(in oklch, var(--FO-accentCol) 90%, transparent), 0px 0px 5px color-mix(in oklch, var(--FO-accentCol) 80%, transparent);
 }
@@ -255,6 +260,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .visual-refresh .wrapper_ef3116 {
   background: var(--FO-mainCol);
   margin-bottom: unset;
+}
+
+.wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8 {
+  background: var(--FO-accentCol);
 }
 
 .circleIconButton__5bc7e.selected__5bc7e, .circleIconButton__5bc7e:hover:not(.disabled__5bc7e) {
