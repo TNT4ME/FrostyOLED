@@ -188,11 +188,10 @@ s .tooltipPrimary__382e7 {
 .bottomBar__0f481 {
   border: none;
   border-radius: 8px;
-  padding-bottom: var(--space-4);
   backdrop-filter: blur(var(--FO-blur));
 }
 
-.lookFilled__201d5.colorBrand__201d5, .lookFilled__201d5.colorBrand__201d5:hover {
+.primary__6af3a, .primary__6af3a:hover {
   border: none;
   color: var(--FO-txtCol);
   background: var(--FO-accentCol) !important;
