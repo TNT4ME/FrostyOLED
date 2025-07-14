@@ -151,19 +151,6 @@ s .tooltipPrimary__382e7 {
   box-shadow: 0px 0px 3px color-mix(in oklch, var(--FO-accentCol) 90%, transparent), 0px 0px 5px color-mix(in oklch, var(--FO-accentCol) 80%, transparent);
 }
 
-.visual-refresh .attachButton__0923f:hover {
-  color: var(--FO-accentCol);
-}
-
-.button__24af7 {
-  color: var(--FO-icon);
-}
-
-:where(.visual-refresh) .app__160d8 button:hover, .lottieIcon__5eb9b:hover, .lottieIconColors__5eb9b:hover {
-  color: var(--FO-accentCol);
-  transition: none;
-}
-
 .upload_aa605f {
   background: none;
   backdrop-filter: blur(var(--FO-blur)); /*need to fix*/
