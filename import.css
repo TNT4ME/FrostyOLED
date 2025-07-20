@@ -84,7 +84,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   color: var(--FO-accentCol);
 }
 
-s .tooltipPrimary__382e7 {
+.tooltipPrimary__382e7 {
   --tooltip-pointer-bg: none;
   border: none;
   background: var(--FO-transCol1);
@@ -96,6 +96,11 @@ s .tooltipPrimary__382e7 {
 }
 
 .button__201d5 {
+  border: none;
+}
+
+.guildInviteContainer__083ae, .footerContent__083ae {
+  background: none;
   border: none;
 }
 
