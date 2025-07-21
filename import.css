@@ -61,6 +61,10 @@
   border: none;
 }
 
+.showMoreButton__84832 {
+  background: var(--FO-transCol);
+}
+
 .panel__5dec7 {
   background: none;
 }
@@ -187,6 +191,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   border: none;
   color: var(--FO-txtCol);
   background: var(--FO-accentCol) !important;
+}
+
+.reaction__23977.reactionMe__23977 {
+  background: var(--FO-transCol1);
+  border-color: var(--FO-accentCol);
 }
 
 .obscured__6c706.hiddenMosaicItem__6c706.hiddenSpoiler__6c706 {
