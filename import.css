@@ -49,7 +49,7 @@
 }
 
 .markup__75297 a {
-  color: --FO-linkCol;
+  color: var(--FO-linkCol);
 }
 
 .defaultColor__4bd52 {
