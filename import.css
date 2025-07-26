@@ -30,20 +30,15 @@
   background: linear-gradient(oklab(71% 0.17 0.16 / 0.15), oklab(65% 0.26 0.14 / 0.15));
 }
 
-.outer_c0bea0 {
+.outer_c0bea0, .profile__9c3be {
+  border: none;
+  outline: none;
+  box-shadow: none;
   background: var(--FO-profileCol);
   backdrop-filter: blur(var(--FO-blur));
 }
 
-:where(.overlay_c0bea0) {
-  background: none;
-}
-
-.menuItemColor_ce8328 {
-  color: var(--FO-txtCol);
-}
-
-.text-sm\/normal_cf4812 {
+.defaultColor__4bd52 {
   color: var(--FO-txtCol) !important;
 }
 
