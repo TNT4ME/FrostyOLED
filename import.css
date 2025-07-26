@@ -39,6 +39,17 @@
 .profile__9c3be {
   outline: none;
   box-shadow: none;
+  background: none;
+}
+
+.lookFilled__201d5.colorBrand__201d5 {
+  border: none;
+  color: var(--FO-txtCol);
+  background: var(--FO-accentCol);
+}
+
+.markup__75297 a {
+  color: --FO-linkCol;
 }
 
 .defaultColor__4bd52 {
