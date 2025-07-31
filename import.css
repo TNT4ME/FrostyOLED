@@ -22,6 +22,7 @@
 }
 
 .menu_c1e9c4 {
+  border: none;
   background: var(--FO-transCol1);
   backdrop-filter: blur(var(--FO-blur));
 }
@@ -48,8 +49,9 @@
   background: var(--FO-accentCol);
 }
 
-.markup__75297 a {
-  color: var(--FO-linkCol);
+.platformIconContainer__9bfb9 {
+  border: none;
+  background: var(--FO-transCol1);
 }
 
 .defaultColor__4bd52 {
@@ -64,6 +66,10 @@
   border: none;
   background: var(--FO-transCol1);
   backdrop-filter: blur(var(--FO-blur));
+}
+
+:where(.overlay_c0bea0) {
+  background: none;
 }
 
 .activityPanel_c48ade {
@@ -151,6 +157,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-transCol1);
 }
 
+.markup__75297 a {
+  color: var(--FO-linkCol);
+}
+
 .wrapper_f61d60:hover {
   color: var(--FO-txtCol);
   background: var(--FO-mentionCol);
@@ -202,9 +212,65 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-accentCol) !important;
 }
 
+.categoryFadeBlurple_d02962 {
+  background: var(--FO-profileCol);
+}
+
+.container_fed6d3, .header_fed6d3, .header__8ef02, .wrapper__14245, .wrapper__4e6ce, .inspector_aeaaeb, .stickerInspected_c6367b .inspectedIndicator_c6367b {
+  border: none;
+  background: none;
+}
+
+.categoryFade_d02962:hover, .result__2dc39:hover {
+  border: none;
+  box-shadow: none;
+}
+
+.standardStickerShortcut__3ad28, .unicodeShortcut_b9ee0c {
+  border: none;
+  color: var(--FO-icon);
+}
+
+.emojiItem_fc7141.emojiItemSelected_fc7141 {
+  transition: 0.2s;
+  background: var(--FO-transCol1);
+}
+
+.topGuildEmojiBadge_aeaaeb {
+  background: linear-gradient(268.26deg, #bf5151, #db803f 102.45%);
+}
+
+.stickerCategoryGenericSelected__3ad28, .categoryItemDefaultCategorySelected_b9ee0c {
+  background: none;
+}
+
 .reaction__23977.reactionMe__23977 {
   background: var(--FO-transCol1);
   border-color: var(--FO-accentCol);
+}
+
+@keyframes grad {
+  0% {
+    background-position: 0% 100%;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}
+.chipletContainerInner__10651, .clickable__10651:hover {
+  background: var(--FO-grad);
+  background-size: 400% 100%;
+  animation: grad 5s linear infinite;
+}
+
+.spoilerContent__54ab5.hidden__54ab5 {
+  background: var(--FO-transCol1);
+  --__current--spoiler-content-opacity: 1;
+  --__current--spoiler-text-color: var($txt);
+}
+
+.obscuredTextContentInner__54ab5 {
+  filter: blur(3px);
 }
 
 .obscured__6c706.hiddenMosaicItem__6c706.hiddenSpoiler__6c706 {
