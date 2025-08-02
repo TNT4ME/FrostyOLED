@@ -170,6 +170,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-transCol) !important;
 }
 
+.themedBackground__74017 {
+  background: --FO-secCol;
+}
+
 .channelTextArea__74017:not(.highlighted__74017) {
   border: none;
 }
@@ -216,7 +220,8 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-profileCol);
 }
 
-.container_fed6d3, .header_fed6d3, .header__8ef02, .wrapper__14245, .wrapper__4e6ce, .inspector_aeaaeb, .stickerInspected_c6367b .inspectedIndicator_c6367b {
+.container_fed6d3, .header_fed6d3, .header__8ef02, .wrapper__14245,
+.wrapper__4e6ce, .inspector_aeaaeb, .stickerInspected_c6367b .inspectedIndicator_c6367b {
   border: none;
   background: none;
 }
