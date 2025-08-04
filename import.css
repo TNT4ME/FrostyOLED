@@ -54,6 +54,19 @@
   background: var(--FO-transCol1);
 }
 
+.menu_c1e9c4:after {
+  inset: 0;
+  z-index: -1;
+  content: "";
+  border-radius: 8px;
+  position: absolute;
+  backdrop-filter: blur(var(--FO-blur));
+}
+
+div.submenu_c1e9c4.menu_c1e9c4::after {
+  inset: 0 2.5%;
+}
+
 .defaultColor__4bd52 {
   color: var(--FO-txtCol) !important;
 }
@@ -171,7 +184,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .themedBackground__74017 {
-  background: --FO-secCol;
+  background: var(--FO-secCol);
 }
 
 .channelTextArea__74017:not(.highlighted__74017) {
