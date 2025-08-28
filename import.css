@@ -277,7 +277,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   --__current--spoiler-text-color: var($txt);
 }
 
-.obscuredTextContentInner__54ab5 {
+.spoilerMarkdownContent__54ab5.hidden__54ab5 {
   filter: blur(3px);
 }
 
