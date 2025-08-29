@@ -166,6 +166,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-transCol1);
 }
 
+.reacttcionTooltip_b49891 {
+  background: var(--FO-transCol1);
+  backdrop-filter: blur(var(--FO-blur));
+}
+
 .markup__75297 a {
   color: var(--FO-linkCol);
 }
