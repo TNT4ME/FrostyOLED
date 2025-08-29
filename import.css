@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .backdrop__78332, .withLayer__78332 {
   background: none !important;
   backdrop-filter: blur(var(--FO-blur)) !important;
@@ -363,6 +364,14 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .visual-refresh .wrapper_ef3116 {
   background: var(--FO-mainCol);
   margin-bottom: unset;
+}
+
+.none_d125d2.scrollerBase_d125d2:after {
+  color: none;
+  background: none;
+  white-space: pre-wrap;
+  font-family: var(code);
+  content: "By TNT4\aME ඞ :D\a 1234567";
 }
 
 .wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8 {
