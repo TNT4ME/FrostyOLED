@@ -6,7 +6,7 @@
 
 .actionButtons_cc1819, .button_aec7ab {
   border: none;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
 }
 
 .buttonInner_aec7ab {
@@ -28,7 +28,7 @@
 
 .menu_c1e9c4 {
   border: none;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
 }
 
 .outer_c0bea0 {
@@ -51,7 +51,7 @@
 
 .platformIconContainer__9bfb9 {
   border: none;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
 }
 
 .menu_c1e9c4:after {
@@ -73,7 +73,7 @@
 
 .visual-refresh .panels_c48ade {
   border: none;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -86,7 +86,7 @@
 }
 
 .showMoreButton__84832 {
-  background: var(--FO-transCol);
+  background: var(--FO-accentB);
 }
 
 .panel__5dec7 {
@@ -95,7 +95,7 @@
 
 .container_dca174, .spinnerContainer_d3846c {
   border: none;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -115,7 +115,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .tooltipPrimary__382e7 {
   --tooltip-pointer-bg: none;
   border: none;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -143,7 +143,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .hoverButtonGroup__06ab4, .gifFavoriteButton__43deb {
   outline: none;
-  background: var(--FO-transCol);
+  background: var(--FO-accentB);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -171,11 +171,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   border: none;
   box-shadow: none !important;
   backdrop-filter: blur(var(--FO-blur));
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
 }
 
 .reacttcionTooltip_b49891 {
-  background: var(--FO-transCol1);
+  background: var(--FO --FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -189,7 +189,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .mentioned__5126c:hover {
-  background: var(--FO-transCol) !important;
+  background: var(--FO-accentB) !important;
 }
 
 .themedBackground__74017 {
@@ -260,7 +260,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .emojiItem_fc7141.emojiItemSelected_fc7141 {
   transition: 0.2s;
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
 }
 
 .topGuildEmojiBadge_aeaaeb {
@@ -272,7 +272,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .reaction__23977.reactionMe__23977 {
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
   border-color: var(--FO-accentCol);
 }
 
@@ -291,7 +291,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .spoilerContent__54ab5.hidden__54ab5 {
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
   --__current--spoiler-content-opacity: 1;
   --__current--spoiler-text-color: var($txt);
 }
@@ -343,11 +343,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .modeSelected__2ea32 .link__2ea32 {
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
 }
 
 .popout__76f04 {
-  background: var(--FO-transCol1);
+  background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
 
@@ -364,6 +364,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 .modeSelected__2ea32 .link__2ea32:hover {
   transition: 0.3s;
   background: var(--FO-accentCol);
+}
+
+.unread__3b95d {
+  background: var(--FO-accentA);
+  backdrop-filter: blur(var(--FO-blur));
 }
 
 .visual-refresh .privateChannels__35e86 {
