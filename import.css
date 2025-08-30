@@ -380,7 +380,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 }
 
 .stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2:after {
-  color: none;
+  color: transparent;
   background: none;
   white-space: pre-wrap;
   font-family: var(--FO-code);
