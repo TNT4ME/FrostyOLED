@@ -147,12 +147,20 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   backdrop-filter: blur(var(--FO-blur));
 }
 
-.scroller__7d20c, .wrapper__00943, .section__00943 {
+.theme-dark .themed__9293f {
+  background: var(--FO-mainCol);
+}
+
+.wrapper_a45028 {
   border: none;
 }
 
 .tabBar__133bf .addFriend__133bf.addFriend__133bf.addFriend__133bf {
   background: var(--FO-accentCol);
+}
+
+.scroller__7d20c, .wrapper__00943, .section__00943 {
+  border: none;
 }
 
 .wrapper_c19a55:hover {
