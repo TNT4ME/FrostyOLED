@@ -271,6 +271,22 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: none;
 }
 
+.messagesPopoutWrap__45690 {
+  background: var(--FO-accentA);
+  backdrop-filter: blur(var(--FO-blur));
+}
+
+.header__45690, .messageGroupWrapper__45690 {
+  border: none;
+  background: none;
+}
+
+.jumpButton__45690 {
+  border: none;
+  color: var(--FO-txtCol);
+  background: var(--FO-accentB);
+}
+
 .reaction__23977.reactionMe__23977 {
   background: var(--FO-accentA);
   border-color: var(--FO-accentCol);
