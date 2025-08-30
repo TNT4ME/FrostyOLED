@@ -324,6 +324,29 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background-color: var(--FO-accentCol);
 }
 
+.container_d9c882 {
+  background: var(--FO-accentA);
+  backdrop-filter: blur(var(--FO-blur));
+}
+
+.header_d9c882, .container__6764b {
+  border: none;
+  background: none;
+}
+
+.container__6764b:hover {
+  background: var(--FO-accentB);
+}
+
+.closeIcon_d9c882, .threadIcon_d9c882 {
+  color: var(--FO-icon);
+}
+
+.wrapper__3412a {
+  border: none;
+  background: rgba(0, 0, 0, 0.1333333333);
+}
+
 .visual-refresh .title_f75fb0 {
   border: none;
   background: var(--FO-mainCol);
