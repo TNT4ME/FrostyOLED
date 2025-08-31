@@ -427,6 +427,15 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-accentCol);
 }
 
+.interactiveSelected__972a0 {
+  color: var(--FO-txtCol);
+  background: var(--FO-accentA);
+}
+
+.interactiveSelected__972a0:hover {
+  background: var(--FO-accentCol);
+}
+
 .user-profile-sidebar {
   background: var(--FO-mainCol);
 }
