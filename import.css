@@ -364,6 +364,11 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   border: none;
 }
 
+.wrapper_f61d60 {
+  color: var(--FO-mentionCol);
+  background: var(--FO-mentionColBg);
+}
+
 .root_bfe55a {
   background: var(--FO-vidBg);
 }
@@ -420,6 +425,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .botTagRegular__82f07 {
   background: var(--FO-accentCol);
+}
+
+.user-profile-sidebar {
+  background: var(--FO-mainCol);
 }
 
 .visual-refresh .wrapper_ef3116 {
