@@ -245,12 +245,16 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-accentCol) !important;
 }
 
-.categoryFadeBlurple_d02962 {
-  background: var(--FO-profileCol);
+.contentWrapper__08434, #popout_6057 > div > #emoji-picker-tab-panel {
+  border: none;
+  background: var(--FO-accentA);
+  backdrop-filter: blur(var(--FO-blur));
 }
 
 .container_fed6d3, .header_fed6d3, .header__8ef02, .wrapper__14245,
-.wrapper__4e6ce, .inspector_aeaaeb, .stickerInspected_c6367b .inspectedIndicator_c6367b {
+.wrapper__4e6ce, .inspector_aeaaeb, .stickerInspected_c6367b .inspectedIndicator_c6367b,
+.wrapper_c0e32c, .wrapper_c0e32c.isBurstReactionPicker_c0e32c,
+.header_c0e32c, .emojiPicker_c0e32c {
   border: none;
   background: none;
 }
