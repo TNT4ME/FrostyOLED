@@ -245,8 +245,7 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-accentCol) !important;
 }
 
-.contentWrapper__08434, #popout_6546 > div > #emoji-picker-tab-panel {
-  border: none;
+div[data-popout-animating=false] > #emoji-picker-tab-panel {
   background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
