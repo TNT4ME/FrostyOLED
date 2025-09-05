@@ -181,8 +181,8 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   background: var(--FO-accentA);
 }
 
-.reacttcionTooltip_b49891 {
-  background: var(--FO --FO-accentA);
+.reactionTooltip_b49891 {
+  background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
 }
 
