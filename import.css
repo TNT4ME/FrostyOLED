@@ -434,6 +434,16 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   backdrop-filter: blur(var(--FO-blur));
 }
 
+/*--------------------thread list--------------------*/
+.spine__5b40b {
+  color: var(--FO-accentCol);
+}
+
+.spineBorder__5b40b {
+  background: var(--FO-accentCol);
+}
+
+/*---------------------------------------------------*/
 .unread__3b95d {
   background: var(--FO-accentA);
   backdrop-filter: blur(var(--FO-blur));
