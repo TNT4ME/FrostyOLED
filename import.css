@@ -31,6 +31,17 @@
   background: var(--FO-accentA);
 }
 
+.popover_d6f39b, .popoverGradientWrapper_d6f39b {
+  border: none;
+  background: var(--FO-accentA);
+  backdrop-filter: blur(var(--FO-blur));
+}
+
+.secondary__6af3a {
+  border: none;
+  background: var(--FO-accentA);
+}
+
 .outer_c0bea0 {
   border: none;
   background: var(--FO-profileCol);
