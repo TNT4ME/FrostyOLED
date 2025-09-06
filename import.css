@@ -405,13 +405,13 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
   backdrop-filter: blur(var(--FO-blur));
 }
 
-.wrapper__2ea32:hover .link__2ea32 {
+.wrapper__2ea32:hover {
   transition: 0.3s;
+}
+.wrapper__2ea32:hover .link__2ea32 {
   background: var(--FO-secCol);
 }
-
 .wrapper__2ea32:hover .name__2ea32 {
-  transition: 0.3s;
   color: var(--FO-txtCol);
 }
 
@@ -469,6 +469,10 @@ div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.b
 
 .folderGroupBackground__48112 {
   border: none;
+}
+
+.item__58105 {
+  background: var(--FO-accentCol);
 }
 
 .circleIconButton__5bc7e.selected__5bc7e, .circleIconButton__5bc7e:hover:not(.disabled__5bc7e) {
